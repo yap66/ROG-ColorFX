@@ -1,0 +1,121 @@
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\bin\Debug\ROG ColorFX.exe
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\bin\Debug\ROG ColorFX.pdb
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\bin\Debug\ROG ColorFX.xml
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.ROG_FORM.resources
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.Resources.resources
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\obj\x86\Debug\ROG ColorFX.xml
+C:\Users\yannick.picard\AppData\Local\Temporary Projects\ROG ColorFX\obj\x86\Debug\ROG ColorFX.pdb
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.xml
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.pdb
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.pdb
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.xml
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.ROG_FORM.resources
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.Resources.resources
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yannick.picard\documents\visual studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.xml
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.pdb
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.pdb
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.xml
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.ROG_FORM.resources
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.Resources.resources
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.vbproj.GenerateResource.Cache
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\CoreAudioApi.dll
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.vbprojResolveAssemblyReference.cache
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.LOADING.resources
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.pdb
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.xml
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.ROG_FORM.resources
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.LOADING.resources
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.Resources.resources
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.xml
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.pdb
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ALIENWARE.resources
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_LEFT.resources
+C:\Users\yannick.picard\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_RIGHT.resources
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ALIENWARE.resources
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_LEFT.resources
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_RIGHT.resources
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.A.resources
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe.manifest
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.application
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.TrustInfo.xml
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe.manifest
+C:\Users\Yannick\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.application
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe.manifest
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.application
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.pdb
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.xml
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.vbprojResolveAssemblyReference.cache
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.A.resources
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.ROG_FORM.resources
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.LOADING.resources
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.Resources.resources
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ALIENWARE.resources
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_LEFT.resources
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_RIGHT.resources
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.vbproj.GenerateResource.Cache
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.TrustInfo.xml
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe.manifest
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.application
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.xml
+C:\Users\Yannick\Desktop\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.pdb
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.A.resources
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.ROG_FORM.resources
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.LOADING.resources
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.Resources.resources
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ALIENWARE.resources
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_LEFT.resources
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_RIGHT.resources
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.xml
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.pdb
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe.manifest
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.application
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.pdb
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.xml
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.TrustInfo.xml
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe.manifest
+E:\Desktop\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.application
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe.manifest
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.application
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.exe
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.pdb
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\ROG ColorFX.xml
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\LightFX.dll
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\bin\Debug\LightFXConfigurator.dll
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.vbprojResolveAssemblyReference.cache
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.A.resources
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.ROG_FORM.resources
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.LOADING.resources
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.Resources.resources
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ALIENWARE.resources
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_LEFT.resources
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG_ColorFX.STAND_ROG_RIGHT.resources
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.vbproj.GenerateResource.Cache
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.TrustInfo.xml
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe.manifest
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.application
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.exe
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.xml
+C:\Users\Yannick\Documents\Visual Studio 2010\Projects\ROG ColorFX\ROG ColorFX\obj\x86\Debug\ROG ColorFX.pdb
